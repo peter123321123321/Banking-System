@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd216a29-db5b-40b6-9f9a-30324fe11bc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Banking System3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking System4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking System5.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Banking System5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Banking System5.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Banking System5.5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +23,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mckay/OneDrive - Middleton Grange School/Computer Science/2024/3.7+3.8 Programming/Excercises/Banking-System"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mckay/OneDrive - Middleton Grange School/Computer Science/2024/3.7+3.8 Programming/Excercises/Banking-System&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mckay\OneDrive - Middleton Grange School\Computer Science\2024\3.7+3.8 Programming\Excercises\Banking-System" />
