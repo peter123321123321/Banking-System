@@ -120,7 +120,7 @@ def transfer():
             return
 
     transfer_amount = float(input("How much would you like to transfer"))
-    if transfer_amount > user.balance:
+    if transfer_amount > User.balance:
         print("Insufficient funds for transfer")
         return
 
