@@ -110,17 +110,17 @@ def bankDetails():
 def transfer():
     account_number = input("What is your account number")
     sender = None
-    for User in userList:
-        if User.account_no == account_number:
-            sender = User
-            print(f"{User.first_name} {User.last_name} Has a balance of {User.balance}")
+    for user in userList:
+        if user.account_no == account_number:
+            sender = user
+            print(f"{user.first_name} {user.last_name} Has a balance of {user.balance}")
             break
         else:
             print("Account number not found")
             return
 
     transfer_amount = float(input("How much would you like to transfer"))
-    if transfer_amount > User.balance:
+    if transfer_amount > user.balance:
         print("Insufficient funds for transfer")
         return
 
